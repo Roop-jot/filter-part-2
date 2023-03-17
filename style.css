@@ -1,0 +1,12 @@
+body
+{
+    background-image: url("image.jpg");
+}
+.btn
+{
+    margin-top: 50px;
+} 
+.button1:hover 
+{
+    background-color: red;
+}
